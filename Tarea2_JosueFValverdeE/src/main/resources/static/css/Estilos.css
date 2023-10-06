@@ -1,0 +1,106 @@
+body{
+    width: 1500px;
+    background-color: white;
+    margin:auto;
+}
+.info{
+    text-align: center;
+    padding: 64px;
+}
+nav li{
+    display: inline-block;
+    padding: 5px;
+}
+h1{
+    background-color: #3399ff;
+    color: white;
+    text-align: center;
+    font-size: 45px;
+}
+nav{
+    text-align: center;
+    background-color: #3399ff;
+}
+.imgGameZone{
+    text-align: center;
+}
+.menuSuperior{
+    font-size: 25px;
+    margin-bottom: 10px;
+    color: white;
+}
+.menuInferior{
+    font-size: medium;
+    margin-top: 25px;
+    color: white;
+}
+.h2ConsolasDisponibles{
+    text-align: center;
+}
+.h2JosueShop{
+    text-align: center;
+}
+.imgConsolas{
+    text-align: center;
+}
+.h2JuegosDisponibles{
+    text-align: center;
+}
+.imgJuegos{
+    text-align: center;
+}
+.imgOrdenadores{
+    text-align: center;
+}
+.h2OrdenadoresDisponibles{
+    text-align: center;
+}
+aside{
+    float: left;
+    background-color: white;
+    width: 300px;
+    margin-top: 0px;
+    border: solid 1px #cccccc;
+    box-shadow: 2px 2px 1px #cccccc;
+    padding: 15px;
+    box-sizing: border-box;
+}
+aside h3{
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    background-color: #3399ff;
+    text-align: center;
+    padding: 5px;
+    border-top: solid 1px black ;
+    border-bottom: solid 1px black ;
+}
+.barra{
+    margin-bottom: 60px;
+}
+.barra form input[type="email"], .barra form input[type="password"]{
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.barra form input[type="submit"]{
+    width: 100%;
+    text-transform: uppercase;
+    color: white;
+    background-color: darkblue;
+    padding: 10px;
+    border: none;
+    transition: all 0.3s;
+}
+.barra form input[type="submit"]:hover {
+    cursor: pointer;
+    background-color: black;
+}
+.combos{
+    text-align: center;
+}
+.perifericos{
+    text-align: center;
+}
+
